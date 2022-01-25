@@ -1,5 +1,7 @@
 ### Sunset notice
 
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/aa315d76-2e74-45f4-bb32-70375d9584df.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/gke-atlantis?orgId=561911742905)  [![Git](https://app.soluble.cloud/api/v1/public/badges/72277e5d-0ddb-4087-8201-b6e06b83cc4a.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/gke-atlantis?orgId=561911742905)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/aa2219d3-9c52-4ea9-b9ce-e1ca8655bbc5.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/gke-atlantis?orgId=561911742905)  
+
 We believe there is an opportunity to create a truly outstanding developer experience for deploying to the cloud, however developing this vision requires that we temporarily limit our focus to just one cloud. Gruntwork has hundreds of customers currently using AWS, so we have temporarily suspended our maintenance efforts on this repo. Once we have implemented and validated our vision for the developer experience on the cloud, we look forward to picking this up. In the meantime, you are welcome to use this code in accordance with the open source license, however we will not be responding to GitHub Issues or Pull Requests.
 
 If you wish to be the maintainer for this project, we are open to considering that. Please contact us at support@gruntwork.io.
